@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-header {
+    font-weight: 600; /* font-semibold */
+    font-size: 1.25rem; /* text-xl */
+    color: #2d3748; /* text-gray-800 */
+    line-height: 1.5; /* leading-tight */
+}
